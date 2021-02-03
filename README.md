@@ -32,7 +32,7 @@ A feladatokat négy fájlban találjátok:
 
 ## Extra feladatok
 - Oldjátok meg, hogy a piros alma felvétele csak 1 pontot érjen.
-- A zöld alma felvételénél vonjon le a játék 2 pontot.
+- Az arany alma felvételénél vonjon le a játék 2 pontot.
 - A kígyó ne tudjon jobbra fordulni.
 - Ha 20 pontot elért a játékos nullázódjanak a pontjai.
 

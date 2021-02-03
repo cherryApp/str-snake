@@ -38,7 +38,7 @@ class Utils extends Debouncer {
 
     /**
      * FELADAT!
-     * Hozd létre a removeNode nevű metódust!
+     * Hozd létre a removeNode nevű statikus metódust!
      * A metódus a kapott elemet eltávolítja a saját parentNode -jából.
      * @param el {Element} - egy DOM Element típus
      * @returns {void}
